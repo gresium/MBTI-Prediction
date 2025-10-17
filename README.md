@@ -33,4 +33,4 @@ Add visual personality dashboards
 Integrate with APIs for live predictions
 
 # Author
-Developed by Gresa Hisa (@gresium) — AI & Cybersecurity Engineer | AI & Machine Learning Specialist
+Developed by Gresa Hisa  — AI Maschine Learning Engineer & Cybersecurity Engineer
